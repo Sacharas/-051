@@ -16,3 +16,5 @@ $$x_{1}=\frac{-b-\sqrt{D}}{2a}$$
 $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$ 
 
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
+
+![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114468843/200492413-51a628c9-12e6-45f7-aac6-5b36d42887c5.png)
