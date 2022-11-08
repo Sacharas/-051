@@ -9,7 +9,7 @@
  
 ![image](https://user-images.githubusercontent.com/114468843/192453967-35a43f2a-ce86-4d20-a46a-7deb1cca6782.png)
 
-8) Дальше для математикоу:
+8) Latex (Дальше для математикоу):
   $$ax^2+bx+c$$ 
  $$D=b^2-4ac$$ 
 $$x_{1}=\frac{-b-\sqrt{D}}{2a}$$ 
