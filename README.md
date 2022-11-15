@@ -18,3 +18,5 @@ $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
 
 ![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114468843/200492413-51a628c9-12e6-45f7-aac6-5b36d42887c5.png)
+
+https://lucid.app/lucidchart/03c49bc6-3d69-41e9-8d5c-dd12e9da7a71/edit?viewport_loc=-589%2C-119%2C2698%2C1317%2C0_0&invitationId=inv_2307020a-60ac-4fa9-a7dc-ebbd19c52c8f
