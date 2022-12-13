@@ -20,6 +20,37 @@ $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
 
 ![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/114468843/200492413-51a628c9-12e6-45f7-aac6-5b36d42887c5.png)
+<script async src="https://aflt.market.yandex.ru/widget/script/api" 
+        type="text/javascript">
+</script>
+<script type="text/javascript">
+  (function (w) {
+    function start() {
+      w.removeEventListener("YaMarketAffiliateLoad", start);
+      w.YaMarketAffiliate.createWidget({
+        containerId: "marketWidget1",
+        type: "offers",
+        params: {
+          clid: 2310490,
+          searchText: "apple ipad air",
+          themeId: 2 
+        }
+      });
+      w.YaMarketAffiliate.createWidget({
+        containerId: "marketWidget2",
+        type: "offers",
+        params: {
+          clid: 2310490,
+          searchText: "samsung galaxy tab",
+          themeId: 2 
+        }
+      });
+    }
+    w.YaMarketAffiliate
+      ? start()
+      : w.addEventListener("YaMarketAffiliateLoad", start);
+  })(window);
+</script>
 
 
 
