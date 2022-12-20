@@ -22,4 +22,5 @@ $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
 9) Сайт http://ep18888.tilda.ws/englishpersonmua
 10) mermaid 
+![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468843/208598557-7fad8d51-8b0a-47b0-9cb1-40e79a962659.png)
 
