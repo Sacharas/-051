@@ -21,4 +21,5 @@ $$x_{1}=\frac{-b-\sqrt{D}}{2a}$$
 $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$ 
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
 9) Сайт http://ep18888.tilda.ws/englishpersonmua
+10) mermaid 
 
