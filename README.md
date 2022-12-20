@@ -22,8 +22,9 @@ $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
 9) Сайт http://ep18888.tilda.ws/englishpersonmua
 10) mermaid 
-![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468843/208598557-7fad8d51-8b0a-47b0-9cb1-40e79a962659.png)
 ![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468843/208599149-d908e0d5-23f3-40bf-a17a-db5713480ec0.png)
+![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468843/208598557-7fad8d51-8b0a-47b0-9cb1-40e79a962659.png)
+
 
 11) Часики <!-- clock widget start -->
 <script type="text/javascript"> var css_file=document.createElement("link"); css_file.setAttribute("rel","stylesheet"); css_file.setAttribute("type","text/css"); css_file.setAttribute("href","https://s.bookcdn.com//css/cl/bw-cl-126el.css?v=0.0.1"); document.getElementsByTagName("head")[0].appendChild(css_file); </script> <div id="tw_7_771554711"><div style="width:126px; height:82px; margin: 0 auto;"><a href="https://nochi.com/time/tomsk-17430">Томск</a><br/></div></div> <script type="text/javascript"> function setWidgetData_771554711(data){ if(typeof(data) != 'undefined' && data.results.length > 0) { for(var i = 0; i < data.results.length; ++i) { var objMainBlock = ''; var params = data.results[i]; objMainBlock = document.getElementById('tw_'+params.widget_type+'_'+params.widget_id); if(objMainBlock !== null) objMainBlock.innerHTML = params.html_code; } } } var clock_timer_771554711 = -1; widgetSrc = "https://widgets.booked.net/time/info?ver=2;domid=589;type=7;id=771554711;scode=27372;city_id=17430;wlangid=20;mode=0;details=0;background=ffffff;border_color=ffffff;color=2ceb59;add_background=ffffff;add_color=d500ff;head_color=4d75eb;border=0;transparent=0"; var widgetUrl = location.href; widgetSrc += '&ref=' + widgetUrl; var wstrackId = ""; if (wstrackId) { widgetSrc += ';wstrackId=' + wstrackId + ';' } var timeBookedScript = document.createElement("script"); timeBookedScript.setAttribute("type", "text/javascript"); timeBookedScript.src = widgetSrc; document.body.appendChild(timeBookedScript); </script>
