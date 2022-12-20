@@ -23,7 +23,8 @@ $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
 9) Сайт http://ep18888.tilda.ws/englishpersonmua
 10) mermaid 
 ![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468843/208599149-d908e0d5-23f3-40bf-a17a-db5713480ec0.png)
-![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468843/208598557-7fad8d51-8b0a-47b0-9cb1-40e79a962659.png)
+![mermaid-diagram-2022-12-20-110912](https://user-images.githubusercontent.com/114468843/208599478-e8b5a3e2-9cea-4d50-887a-b737123c3130.png)
+
 
 
 11) Часики <!-- clock widget start -->
