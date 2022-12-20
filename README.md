@@ -19,7 +19,7 @@
 $$x_{1}=\frac{-b-\sqrt{D}}{2a}$$ 
 $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$ 
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
-9) кнопка https://angelina132rais.github.io/
+9) кнопка https://angelina132rais.github.io/ (не совсем моя)
 10) Сайт http://ep18888.tilda.ws/englishpersonmua
 11) mermaid 
 ![pako_eNplkEsKwjAQhq8SZtkHmEQiBtKVN3BpXAQTH9Cm0qaClG48kuDWM9QbmVifOLP55p9_BmZaWJXaAIfaKWdmO7WpVJEeiLTIxwJnos4EJtMlStMMxXjQ_xrRMBDjp41MpI3I0GJjz2z8KBj9MA0zjHpkb6L4RZhJGxKh_no79ef-cjvhqQjLviUyEpQkYe](https://user-images.githubusercontent.com/114468843/208601635-32e0b7e8-cdce-4275-ba8f-73082a2b9223.png)
