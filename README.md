@@ -20,22 +20,7 @@ $$x_{1}=\frac{-b-\sqrt{D}}{2a}$$
 $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$ 
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
 9) кнопка <style>
-.button_1671520056511 {
-    display: inline-block !important;
-    text-decoration: none !important;
-    background-color: #87d435 !important;
-    color: #670093 !important;
-    border: 2px solid #0dffff !important;
-    border-radius: 34px !important;
-    font-size: 16px !important;
-    padding: 15px 50px !important; 
-    transition: all 0.8s ease !important;
-}
-.button_1671520056511:hover{
-    text-decoration: none !important; 
-    background-color: #006089 !important;
-    color: #ffeded !important;
-    border-color: #006089 !important;
+
 }
 </style>
 <a href="https://github.com/Sacharas/-051" class="button_1671520056511" target="_blank">
