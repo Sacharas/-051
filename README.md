@@ -19,10 +19,7 @@
 $$x_{1}=\frac{-b-\sqrt{D}}{2a}$$ 
 $$x_{2}=\frac{-b+\sqrt{D}}{2a}$$ 
 $$m_{H_{2}O}=V_{H_{2}O} \times p_{H_{2}O}$$
-9) кнопка <style>
-
-}
-</style>
+9) кнопка 
 <a href="https://github.com/Sacharas/-051" class="button_1671520056511" target="_blank">
   Нажми на меня
 </a>
