@@ -1,6 +1,6 @@
 # Чередникова С. 051
 ![гырлянда](https://user-images.githubusercontent.com/114468843/207239280-09e0f696-7f88-43f6-bcb6-248667eda0c7.gif)
-![image](https://user-images.githubusercontent.com/114468843/192453967-35a43f2a-ce86-4d20-a46a-7deb1cca6782.png)
+    ![image](https://user-images.githubusercontent.com/114468843/192453967-35a43f2a-ce86-4d20-a46a-7deb1cca6782.png)
 
 
 
