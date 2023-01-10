@@ -1,9 +1,10 @@
 # Чередникова С. 051
-                                                                   ## 2 полугодие:
+ ## 2 полугодие:
 1) Черепашка (6 ЕГЭ) https://github.com/Sacharas/-051/blob/main/turtle%20sacharas.py
+
    Не черепашка (сейм) 
 
-                                                                   ## 1 полугодие
+ ## 1 полугодие
 
 
 ![гырлянда](https://user-images.githubusercontent.com/114468843/207239280-09e0f696-7f88-43f6-bcb6-248667eda0c7.gif)
