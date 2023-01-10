@@ -2,7 +2,7 @@
  ## 2 полугодие:
 1) Черепашка (6 ЕГЭ) https://github.com/Sacharas/-051/blob/main/turtle%20sacharas.py
 
-   Не черепашка (сейм) 
+   Не черепашка (тоже 6) https://github.com/Sacharas/-051/blob/main/6%20sacharas.py
 
  ## 1 полугодие
 
