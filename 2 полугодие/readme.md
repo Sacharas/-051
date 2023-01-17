@@ -31,7 +31,7 @@
 | 26 | |
 | 27 | |
 
-
+```
 #5
 for i in range(1,100):
     chislo=''
@@ -44,7 +44,8 @@ for i in range(1,100):
     if int(chislo,2)>40:
         print (i, int(chislo,2))
         break
-        
+   ```
+   ```
 #6
 from turtle import *
 left(90)
@@ -57,7 +58,8 @@ for x in range(1,9):
         goto(x*30,y*30)
         dot(5)
 done()
-
+```
+```
 #8
 count=0
 for a in range (1,8):
@@ -73,3 +75,4 @@ for a in range (1,8):
                     if s.count('6')==1 and s.index('6')<len(s)-1 and s.index('6')>0 and int(s[s.index('6')-1])%2==0 and int(s[s.index('6')+1])%2==0:
                         count+=1
 print(count)
+```
